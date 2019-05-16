@@ -1,4 +1,8 @@
-Could and dry, but every thing is good.
+added line at the very beginning
+
+Could and dry, but every things is good.
 Waw this is another line of code.
 
 The weight is 1000 kg
+
+There are plenty of food
