@@ -1,0 +1,6 @@
+*.dat
+results/*.out
+results/plot/
+.idea/
+githubkey
+githubkey.pub
